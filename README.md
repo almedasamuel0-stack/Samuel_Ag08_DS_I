@@ -48,8 +48,8 @@ $ cd projetos/consumo-energia
 ---
 ### 3. Exemplo de execução
 
-<div align="center" alt="Ex" width="350" height="auto">
-    <img src="Samuel_Ag08_DS_I/Exemplo/Exemplo1.png"/>
+<div align="center">
+    <img src="Exemplo/Imagem01.png" alt="Imagem" width="350" height="auto"/>
     <p><strong>Exemplo de execução </strong></p>
 </div>
 
