@@ -1,9 +1,5 @@
-# 🔢 Sistema de Avalição ao Cliente
-👋 Este Sistema têm como finalidade exibir a satisfação do cliente conforme a seleção definida em 3
-
-## ‼️ Neste projeto você vai encontrar
-
-  - 🔤 Listas: Aqui você pode listar as principais funções incorporadas dentro do projeto.
+# Sistema de Avalição ao Cliente
+👋 Este Sistema têm como finalidade exibir a satisfação do cliente conforme a seleção definida em 3 opções, sendo contabilizado a quantidade individual de cada opção.
 
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
